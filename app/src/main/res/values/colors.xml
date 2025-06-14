@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="greey">#FFF1D5</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="readTextColor">#689F38</color>
+    <color name="unreadTextColor">#D32F2F</color>
+
+    <color name="teal_700">#00796B</color> <!-- Dark Teal -->
+    <color name="teal_900">#004D40</color> <!-- Even Darker Teal -->
+</resources>
