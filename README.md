@@ -64,4 +64,4 @@ To run the app locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayaanbyte/Android-Chatting-App.git
+   git clone https://github.com/ayaandevx/Android-Chatting-App.git
